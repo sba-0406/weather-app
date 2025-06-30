@@ -70,7 +70,7 @@ Feel free to fork the repo and submit a pull request.
 ### ✨ Author
 
 **Alisha Shaik**
-📫 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/sba-0406)
+📫 [LinkedIn](https://www.linkedin.com/in/bisma-alisha-shaik-1b136b294/) | [GitHub](https://github.com/sba-0406)
 
 ---
 
