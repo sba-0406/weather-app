@@ -1,6 +1,4 @@
-Great! Let's make your weather app's README stand out and impress viewers on GitHub. Here's a professional, visually appealing, and informative `README.md` template customized for your project:
 
----
 
 ## 🌦️ Weather App
 
